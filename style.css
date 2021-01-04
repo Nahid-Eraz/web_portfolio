@@ -9,28 +9,30 @@ h2{
     font-size: 35px;
 }
 p{
-    font-size: 25px;
+    font-size: 20px;
     text-align: justify;
 }
 .name-highlight{
     color: #8a00fb;
 }
-.first-box{
+.half-box{
     width: 36%;
     float: left;
     margin: 5%;
     padding: 2%;
 }
-.first-box img{
+.half-box img{
     width: 100%;
 }
 .top-banner{
     background-image: url("Images/top-banner.png");
+    background-size: 75%;
     background-repeat: no-repeat;
     
 }
 section{
     height: 500px;
+    padding-bottom: 250px;
 }
 .text-button{
     color: white;
@@ -40,12 +42,8 @@ section{
     padding: 10px 25px;
     border-radius: 5px;
 }
-.second-box{
-    width: 36%;
-    float: left;
-    margin: 5%;
-    padding: 2%;
-}
-.second-box img{
-    width: 100%;
+.bottom-banner{
+    background-image: url("Images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right 1% bottom 25%;
 }
