@@ -1,0 +1,18 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 55px;
+}
+.name-highlight{
+    color: rgb(214, 0, 251);
+}
+.first-box{
+    width: 36%;
+    float: left;
+    margin: 5%;
+    padding: 2%;
+}
+.first-box img{
+    width: 100%;
+}
